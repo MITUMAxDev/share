@@ -71,5 +71,4 @@
 - `alt` : ข้อความสำรองที่จะแสดงเมื่อไม่สามารถแสดงรูปภาพได้
 
 ถ้าเพื่อนรู้สึกว่า HTML ยากแล้ว สบายใจได้เลย ยังมีภาษา CSS, JavaScript, SQL และอีกเยอะเลย ที่โดนแน่ๆ
-![image](https://github.com/MITUMAxDev/share/assets/144593781/2d9b00a6-2cff-493d-b39f-370de8fafe6a)
-
+![image](https://github.com/MITUMAxDev/share/assets/144593781/181de9d5-e5ae-4ffa-a9c2-0aec60e3ff7d)
