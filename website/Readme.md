@@ -72,7 +72,7 @@
 
 ### ผลลัพธ์:
 
-[Watch the video](https://github.com/MITUMAxDev/share/blob/main/website/Files/link_example.mp4)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YOUR_VIDEO_ID" frameborder="0" allowfullscreen></iframe>
 
 ### การสร้างรูปภาพ (Image)
 
