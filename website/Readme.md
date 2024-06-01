@@ -72,7 +72,7 @@
 
 ### ผลลัพธ์:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YOUR_VIDEO_ID" frameborder="0" allowfullscreen></iframe>
+[![Watch the video](https://img.youtube.com/vi/WJtX3BkCBws/0.jpg)](https://youtube.com/shorts/WJtX3BkCBws?feature=shared)
 
 ### การสร้างรูปภาพ (Image)
 
