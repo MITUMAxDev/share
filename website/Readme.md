@@ -116,6 +116,9 @@
   </body>
 </html>
 ```
+## ตัวอย่างเว็บผลลัพธ์
+![image](https://media.discordapp.net/attachments/1244310987109302444/1246443310890094653/Screenshot_2024-06-01-19-40-03-98_f9a7afa717ced9e1fc9be9833291031a.jpg?ex=665c684b&is=665b16cb&hm=642faafde466f3e523a43af9c750b50390e85c28374bd45367927554838d239e&)
+
 
 ถ้าเพื่อนรู้สึกว่า HTML ยากแล้ว สบายใจได้เลย ยังมีภาษา CSS, JavaScript, SQL และอีกเยอะเลย ที่โดนแน่ๆ
 ![image](https://github.com/MITUMAxDev/share/assets/144593781/181de9d5-e5ae-4ffa-a9c2-0aec60e3ff7d)
