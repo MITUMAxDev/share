@@ -72,7 +72,7 @@
 
 ### ผลลัพธ์:
 
-[![Watch the video](https://img.youtube.com/vi/WJtX3BkCBws/0.jpg)](https://youtube.com/shorts/WJtX3BkCBws?feature=shared)
+![image](https://cdn.discordapp.com/attachments/1244310987109302444/1246459479957045299/lv_0_20240601202609.gif?ex=665c775a&is=665b25da&hm=29006ed7a350c41e7d37ca6aadd14f718204d6508bfa8d52c4960dada344090b&)
 
 ### การสร้างรูปภาพ (Image)
 
