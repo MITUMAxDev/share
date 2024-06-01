@@ -70,6 +70,10 @@
 - `<a>` : แท็กสำหรับสร้างลิงก์
 - `href` : กำหนด URL ของหน้าเว็บที่ต้องการลิงก์ไป
 
+### ผลลัพธ์:
+
+[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://youtu.be/vt5fpE0bzSY)
+
 ### การสร้างรูปภาพ (Image)
 
 ```html
