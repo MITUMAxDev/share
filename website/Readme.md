@@ -96,6 +96,19 @@
 - `<!-- ??? -->` : ประกาศว่า Content ข้างใน จะไม่นับรวมเป็นโค้ด/แท็ก
 -  เอาไว้อธิบายโค้ดตัวเอง เวลากลับมาแก้/ส่งต่อให้คนอื่นทำ จะได้เข้าใจ did you get it!?
 
+## HTML Formatting Elements
+
+- `<b>` - Bold text
+- `<strong>` - Important text
+- `<i>` - Italic text
+- `<em>` - Emphasized text
+- `<mark>` - Marked text
+- `<small>` - Smaller text
+- `<del>` - Deleted text
+- `<ins>` - Inserted text
+- `<sub>` - Subscript text
+- `<sup>` - Superscript text
+
 ### เว็บตัวอย่างที่เขียนในClass
 ```html
 <!DOCTYPE html>
